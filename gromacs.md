@@ -1,4 +1,4 @@
-# Gromacs Works
+# Gromacs work 
 
 ## Installation
 
